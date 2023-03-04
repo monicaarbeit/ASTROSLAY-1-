@@ -1,3 +1,6 @@
+## Welcome to The Fairy Builders!
+Made by Zu, Melinda, Cammy, and Momo
+
 ## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
