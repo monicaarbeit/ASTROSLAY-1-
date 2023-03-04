@@ -1,0 +1,91 @@
+body {
+  background-color: #EAE7DC;
+}
+
+img {
+  width: 180px;
+  height: 180px;
+  padding: 20px;
+}
+
+button {
+  border-radius: 15px;
+}
+
+.AstroCardBTN {
+  display: block;
+  width: auto;
+  height: auto;
+  margin: 10px;
+  margin-top: 80px;
+  font-size: 20px; 
+  background-color: #D8C3A5; 
+  color: #4F4A41; 
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  color: #4F4A41; 
+  font-size: 80px; 
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Forum', cursive;
+  color: #4F4A41; 
+  font-size: 30px; 
+}
+
+p {
+    font-family: 'Forum', cursive;
+  font-size: 30px; 
+  color: #4F4A41; 
+
+}
+
+.fairies {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 80px;
+}
+
+.fairyDesc {
+  display: flex;
+  justify-content: center; 
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px; 
+  margin-botton: 50px; 
+  width: 50%;
+}
+
+#singleFairyIMG {
+  width: 260px;
+  margin-right: 20px;
+}
+
+.resultText {
+  text-align: center;
+  font-family: 'Forum', cursive; 
+  margin-top: 30px; 
+  font-size: 65px;
+}
+
+.text {
+  text-align: center;
+  font-family: 'Forum', cursive;
+  margin-bottom: 10px; 
+}
+
+#tinkerbellSticker {
+  position: absolute;
+  right: 5%;
+  top: 5%;
+}
